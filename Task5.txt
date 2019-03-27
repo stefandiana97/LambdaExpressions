@@ -1,0 +1,5 @@
+Filter the activities that have 90% of the monitoring samples with duration
+less than 5 minutes, collect the results in a List<String> containing only the
+distinct activity names: 
+
+Snack

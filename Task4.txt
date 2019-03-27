@@ -1,0 +1,7 @@
+Determine a data structure of the form Map that maps
+for each activity the total duration computed over the monitoring period. Filter the
+activities with total duration larger than 10 hours: 
+
+Sleeping =  5 Zile  11:03:31
+Leaving =  1 Zi   03:44:44
+Spare_Time/TV =  5 Zile  22:28:55
